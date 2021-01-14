@@ -190,9 +190,3 @@ public class DreidelGame
    
    }
 }
-
-/*Looks like that's a wrap for the semester! I hope you will accept my sincere gratitude. This was my first exposure worth mentioning to computer science,
-and I cannot thank you enough for making it so successful. Because of your instruction, an uncharted territory has become accessible, and were it not for that
-I may never have found that I so enjoy exploring it. I look forward to what comes next semester with CS 1410, and again, I thank you for a very fun and
-informative semester.
-*/
